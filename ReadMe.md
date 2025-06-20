@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at Bhaktapur Multiple Campus.<br>I'm a BCA Student currently in 2nd year.<br>I'm interested in coding and designing.<br>I love to listen music and play video games.
+I'm a BCA Student currently studying in Bhaktapur Multiple Campus.<br>I'm interested in coding and designing.<br>I love to listen music and play video games.
 
 
 ## 🌐 Socials:
